@@ -1,0 +1,5 @@
+Pillow==9.4.0
+pynput==1.7.6
+pystray==0.19.4
+pywin32==305
+win32gui==221.6
