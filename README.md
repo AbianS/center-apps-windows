@@ -12,7 +12,7 @@
 <p align="center">
 <a target="_blank" href="https://www.python.org/about/"><img src="https://img.shields.io/badge/python-v3.11-blue.svg"/></a> 
 <a><img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/></a>
-<a target="_blank" href="https://github.com/AbianS/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
+<a target="_blank" href="https://github.com/AbianS/center-apps-windows/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
 </p>
 
 
@@ -22,12 +22,13 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](images/init.gif)
-
+<p align="center">
+  <img src="images/init.gif">
+</p>
 
 ## How To Use
 
-To use it is very easy, you can download the executable and run it.
+To use it is very easy, you can download the [executable](https://github.com/AbianS/center-apps-windows/releases/tag/v1.0.0) and run it.
 
 To center the application in the window simply press `ctrl + alt` and the program will detect which application is in the foreground and center it with respect to the dimensions of your monitor.
 
